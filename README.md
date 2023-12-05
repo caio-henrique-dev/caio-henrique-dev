@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caio-henrique-dev)
 
-![banner dev](https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/d7482253-dad6-4a33-aa1f-f150d50f4443)
+![banner-dev](https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077)
 
 ##Tecnologias que utilizo no meu dia a dia
 
@@ -31,5 +31,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+	
 
