@@ -36,7 +36,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![After-Effects](https://aleen42.github.io/badges/src/after_effects.svg)
 
-![Caio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-henrique-dev&show_icons=true&theme=tokyonight)
+![Caio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-henrique-dev&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique-dev&hide_progress=trueDemo)
 
