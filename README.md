@@ -41,6 +41,6 @@
 
 
 ![Caio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-henrique-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique-dev&layout=compact&theme=dark&show_icons=true)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique-dev&layout=compact&theme=dark&show_icons=true" />
 
 
