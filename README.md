@@ -1,13 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer+em+telo+aqui!!!;Sou+Caio+Henrique+🤝)](https://git.io/typing-svg)
 
-### Olá, muito prazer em telo aqui, sou Caio Henrique!!! 🤝
+<div align="center" >
+<img src="https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077" />
+</div>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?label=caiooliveirasjc21@gmail.com&style=for-the-badge&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/caio.henrique.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caio-henrique-dev)
-
-![banner-dev](https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077)
 
 ##Tecnologias que utilizo no meu dia a dia
 
