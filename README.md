@@ -49,7 +49,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
 </div>
 
+<div align="center" >
+  
 ![Caio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-henrique-dev&show_icons=true&theme=dark)
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique-dev&layout=compact&theme=dark&show_icons=true" />
-
+</div>
 
