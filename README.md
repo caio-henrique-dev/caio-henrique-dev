@@ -18,6 +18,8 @@
 <h2>#Tecnologias que utilizo no meu dia a dia:</h2>
 </div>
 
+<div align="center" >
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
+</div>
 
 ![Caio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-henrique-dev&show_icons=true&theme=dark)
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique-dev&layout=compact&theme=dark&show_icons=true" />
