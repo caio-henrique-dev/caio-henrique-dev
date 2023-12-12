@@ -49,7 +49,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
 </div>
 
+<div align="center" >
 <h4>Explorando o universo Full Stack com paixão por desenvolvimento web. Confortável tanto no frontend quanto no backend, estou aberto a desafios inovadores e oportunidades de aprendizado contínuo, estou pronto para contribuir em equipes dinâmicas.</h4>
+</div>
 
 <div align="center" >
   
