@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Sou+Caio+Henrique+🤝;Olá,+muito+prazer+em+telo+aqui!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer+em+telo+aqui!!!;Sou+Caio+Henrique+🤝)](https://git.io/typing-svg)
 
 <div align="center" >
 <img src="https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077" />
