@@ -7,6 +7,10 @@
 </div>
 
 <div align="center" >
+<h3>#Meus Contatos:</h3>
+</div>
+
+<div align="center" >
 <img src="https://img.shields.io/badge/Gmail-D14836?label=caiooliveirasjc21@gmail.com&style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://wa.me/5512988905783?text=Olá%21%20Estou%20interessado%20nos%20seus%20serviços%20como%20Desenvolvedor%20Fullstack.%20Tenho%20um%20projeto%20que%20gostaria%20de%20discutir%20e%20conhecer%20mais%20sobre%20suas%20habilidades%20e%20experiência.%20Podemos%20agendar%20um%20tempo%20para%20conversar%3F" /><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.facebook.com/caio.henrique.dev/" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -68,7 +72,7 @@
 
 <div align="center" >
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caio-henrique-dev&bg_color=000000&color=ffffff&line=1eff00&point=ffffff&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caio-henrique-dev&bg_color=000000&color=ffffff&line=1eff00&point=ffffff&area=true&hide_border=true)
 </div>
 
 <div align="center">
