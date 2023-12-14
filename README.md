@@ -19,7 +19,7 @@
 </div>
 <p></p>
 <div align="center" >
-<h2>#Tecnologias que utilizo no meu dia a dia:</h2>
+<h2>🚀#Tecnologias que utilizo no meu dia a dia:</h2>
 </div>
 
 <div align="center" >
@@ -66,7 +66,7 @@
 </div>
 
 <div align="center" >
-<h4>Explorando o universo Full Stack com paixão por desenvolvimento web. Confortável tanto no frontend quanto no backend, estou aberto a desafios inovadores e oportunidades de aprendizado contínuo, estou pronto para contribuir em equipes dinâmicas.</h4>
+<h4>Explorando o universo Full Stack com paixão por desenvolvimento web, confortável tanto no frontend quanto no backend, estou aberto a desafios inovadores e oportunidades de aprendizado contínuo, estou pronto para contribuir em equipes dinâmicas em busca da minha primeira oportunidade na área!</h4>
 </div>
 
 <div align="center" >
