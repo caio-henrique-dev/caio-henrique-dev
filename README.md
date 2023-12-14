@@ -43,6 +43,7 @@
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 <img src="https://aleen42.github.io/badges/src/after_effects.svg" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="40" />
@@ -63,3 +64,8 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caio-henrique-dev&bg_color=000000&color=ffffff&line=1eff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitas:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caio-henrique-dev}/count.svg" /></p> 
+<br></div>
