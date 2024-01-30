@@ -12,11 +12,11 @@
 
 <div align="center" >
 <img src="https://img.shields.io/badge/Gmail-D14836?label=caiooliveirasjc21@gmail.com&style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://wa.me/5512988905783?text=Olá%21%20Estou%20interessado%20nos%20seus%20serviços%20como%20Desenvolvedor%20Fullstack.%20Tenho%20um%20projeto%20que%20gostaria%20de%20discutir%20e%20conhecer%20mais%20sobre%20suas%20habilidades%20e%20experiência.%20Podemos%20agendar%20um%20tempo%20para%20conversar%3F" /><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/5512988905783?text=Olá%21%20Estou%20interessado%20nos%20seus%20serviços%20como%20Desenvolvedor%20Fullstack.%20Tenho%20um%20projeto%20que%20gostaria%20de%20discutir%20e%20conhecer%20mais%20sobre%20suas%20habilidades%20e%20experiência.%20Podemos%20agendar%20um%20tempo%20para%20conversar%3F" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.facebook.com/caio.henrique.dev/" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/caio-henrique-dev/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/caio-henrique-dev" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.instagram.com/caio_henrique_dev/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> </a>
+<a href="https://www.instagram.com/caio_henrique_dev/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
 <p></p>
 <div align="center" >
