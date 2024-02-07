@@ -67,7 +67,7 @@
 </div>
 
 <div align="center" >
-<h4>Explorando o universo Full Stack com paixão por desenvolvimento web, confortável tanto no frontend quanto no backend, estou aberto a desafios inovadores e oportunidades de aprendizado contínuo, estou pronto para contribuir em equipes dinâmicas em busca da minha primeira oportunidade na área!</h4>
+<h4>Explorando o universo Full Stack na Área de desenvolvimento web, confortável tanto no frontend quanto no backend, estou aberto a desafios inovadores e oportunidades de aprendizado, estou pronto para contribuir em equipes dinâmicas em busca da minha primeira oportunidade na área!</h4>
 </div>
 
 <div align="center" >
