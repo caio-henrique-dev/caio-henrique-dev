@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+muito+prazer+em+telo+aqui!!!;Sou+Caio+Henrique+🤝)](https://git.io/typing-svg)
 
 <div align="center" >
-<img src="https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077" />
-  <img src="https://github.com/user-attachments/assets/3d53cb38-de17-47d2-bb5d-1723d7af9b40" />
+<img  height="355" src="https://github.com/user-attachments/assets/3d53cb38-de17-47d2-bb5d-1723d7af9b40" />
+<img  height="355" src="https://github.com/user-attachments/assets/8c7aad8d-fd4e-4750-a14d-e437faa10829" />
 </div>
 
 <div align="center" >
