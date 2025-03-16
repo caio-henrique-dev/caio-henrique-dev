@@ -4,6 +4,7 @@
 
 <div align="center" >
 <img src="https://github.com/caio-henrique-dev/caio-henrique-dev/assets/115433314/2c3b2860-2a2b-4e04-b0a8-735748a76077" />
+  <img src="https://github.com/user-attachments/assets/3d53cb38-de17-47d2-bb5d-1723d7af9b40" />
 </div>
 
 <div align="center" >
